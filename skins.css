@@ -1,0 +1,11 @@
+
+body {
+	background-color: cyan;
+}
+legend{
+	font-size: 45px;
+	color: tomato; 
+}
+fieldset {
+	background-color: silver;
+}
